@@ -51,7 +51,7 @@ Legged locomotion · SLAM · sensor fusion · whole-body manipulation · swarm c
 
 ## ⚙️ Cloud-Native & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-6e7781?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-6e7781?style=flat-square) ![Ansible](https://img.shields.io/badge/Ansible-6e7781?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-6e7781?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-6e7781?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-6e7781?style=flat-square) ![Ansible](https://img.shields.io/badge/Ansible-6e7781?style=flat-square) 
 
 ---
 
