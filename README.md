@@ -58,13 +58,13 @@
 
   <div class="sec">Languages &amp; tooling</div>
   <div class="row">
-    <img src="https://cdn.simpleicons.org/python" title="Python"/>
-    <img src="https://cdn.simpleicons.org/rust" title="Rust"/>
-    <img src="https://cdn.simpleicons.org/typescript" title="TypeScript"/>
-    <img src="https://cdn.simpleicons.org/go" title="Go"/>
-    <img src="https://cdn.simpleicons.org/docker" title="Docker"/>
-    <img src="https://cdn.simpleicons.org/ollama" title="Ollama"/>
-    <img src="https://cdn.simpleicons.org/pytorch" title="PyTorch"/>
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="30" height="30"/>
+    <img src="https://cdn.simpleicons.org/rust/DEA584"   alt="Rust" width="30" height="30"/>
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="30" height="30"/>
+    <img src="https://cdn.simpleicons.org/go/00ADD8"        alt="Go" width="30" height="30"/>
+    <img src="https://cdn.simpleicons.org/docker/2496ED"    alt="Docker" width="30" height="30"/>
+    <img src="https://cdn.simpleicons.org/ollama/EFF2F8"    alt="Ollama" width="30" height="30"/>
+    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C"   alt="PyTorch" width="30" height="30"/>
   </div>
 
   <div class="foot">eddavv&nbsp;&nbsp;·&nbsp;&nbsp;AI Architect / Engineer / Governance&nbsp;&nbsp;·&nbsp;&nbsp;Switzerland</div>
