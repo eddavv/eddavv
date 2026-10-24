@@ -17,7 +17,7 @@ $ whoami
   architect  &#8594;  engineer  &#8594;  operational, in the enterprise
 </pre>
 
-I'm interested in **AI-native** solutions — not bolting models onto old workflows, but building the system around the model.
+AI-native by default — systems built around the model, not models bolted onto legacy workflows.
 
 ### Architectures
 
@@ -32,24 +32,30 @@ I'm interested in **AI-native** solutions — not bolting models onto old workfl
 
 - Online evals &amp; regression gates — regressions caught in CI, never in prod
 - Observability — LLM traces, token/cost accounting, drift detection
+- CUDA / mixed-precision kernels — the difference between a demo and something that ships
 - Canary &amp; rolling deploys with semantic caching and graceful degradation
 - Prompt + data version control, with lineage
 - Agent-driven CI/CD
 
-### Off-lab
+### Robotics
 
-Robotics, off the clock: motors, sensors, perception — and the occasional odd build. Curious, not complete.
+Legged locomotion · SLAM · sensor fusion · whole-body manipulation · swarm control.
 
 ### Languages &amp; tooling
 
-- <img src="https://cdn.simpleicons.org/python/3776AB"  alt="Python"     width="26" height="26"/> Python
-&nbsp;&nbsp;-&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/rust/DEA584"      alt="Rust"       width="26" height="26"/> Rust
-&nbsp;&nbsp;-&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="26" height="26"/> TypeScript
-&nbsp;&nbsp;-&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/go/00ADD8"      alt="Go"         width="26" height="26"/> Go
-&nbsp;&nbsp;-&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c++/00599C"     alt="C++"        width="26" height="26"/> C++
-&nbsp;&nbsp;-&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c/4A7FB5"          alt="C"          width="26" height="26"/> C
-&nbsp;&nbsp;-&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/2496ED"    alt="Docker"     width="26" height="26"/> Docker
-&nbsp;&nbsp;-&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytorch/EE4C2C"   alt="PyTorch"    width="26" height="26"/> PyTorch
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB"     alt="Python"     width="26" height="26"/> Python&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rust/DEA584"        alt="Rust"       width="26" height="26"/> Rust&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6"  alt="TypeScript" width="26" height="26"/> TypeScript&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/go/00ADD8"          alt="Go"         width="26" height="26"/> Go&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/c++/00599C"         alt="C++"        width="26" height="26"/> C++&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/c/4A7FB5"           alt="C"          width="26" height="26"/> C&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/5382A1"     alt="Java"       width="26" height="26"/> Java&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nvidia/76B900"      alt="NVIDIA / CUDA" width="26" height="26"/> CUDA&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00"  alt="TensorFlow" width="26" height="26"/> TensorFlow&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C"     alt="PyTorch"    width="26" height="26"/> PyTorch&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED"      alt="Docker"     width="26" height="26"/> Docker
+</p>
 
 <br/>
 
