@@ -39,13 +39,21 @@ AI-native by default: systems are built around the model, not models bolted onto
 
 Legged locomotion · SLAM · sensor fusion · whole-body manipulation · swarm control.
 
-## Languages
+## 🛠️ Languages & Core Stack
 
-`python · rust · typescript · c++ · swift · mojo`
+![Python](https://img.shields.io/badge/Python-3aa0c8?style=flat-square) ![Mojo](https://img.shields.io/badge/Mojo-3aa0c8?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3aa0c8?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3aa0c8?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3aa0c8?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3aa0c8?style=flat-square)
 
-## Tools
+## 🤖 Multi-Agent Orchestration & Frameworks
 
-`pytorch · tensorflow · docker · cuda · codex/cli · swiftui · node.js`
+![LangGraph](https://img.shields.io/badge/LangGraph-7f9cf5?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-7f9cf5?style=flat-square) ![AutoGen](https://img.shields.io/badge/AutoGen-7f9cf5?style=flat-square) ![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-7f9cf5?style=flat-square)
+
+## 🚀 Local AI Runtimes & Data (Airgap)
+
+![vLLM](https://img.shields.io/badge/vLLM-2ea043?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-2ea043?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-2ea043?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-2ea043?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-2ea043?style=flat-square)
+
+## ⚙️ Cloud-Native & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-6e7781?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-6e7781?style=flat-square) ![Ansible](https://img.shields.io/badge/Ansible-6e7781?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-6e7781?style=flat-square)
 
 ---
 
