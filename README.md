@@ -1,5 +1,3 @@
-# eddavv
-
 **AI Architect & Engineer** — I design, build, and put AI systems *into production*.
 
 AI-native by default: systems are built around the model, not models bolted onto legacy workflows.
